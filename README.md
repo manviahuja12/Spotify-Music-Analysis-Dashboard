@@ -1,3 +1,7 @@
+
+![Spotify Logo](https://github.com/user-attachments/assets/03550485-2eb2-4e96-92be-0925accb2c15)
+
+
 # Spotify-Music-Analysis-Dashboard
 The Dashboard visualizes streaming trends, popular artists, and song features using Power BI, providing key insights into music consumption patterns.
 
