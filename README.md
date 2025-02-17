@@ -1,5 +1,4 @@
-
-![Spotify Logo](https://github.com/user-attachments/assets/03550485-2eb2-4e96-92be-0925accb2c15)
+<img src="https://github.com/user-attachments/assets/03550485-2eb2-4e96-92be-0925accb2c15" width="600" />
 
 
 # Spotify-Music-Analysis-Dashboard
